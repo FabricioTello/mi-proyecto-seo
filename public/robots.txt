@@ -1,5 +1,4 @@
-<CodeBlock language="text" editable>
 User-agent: *
 Allow: /
-Sitemap: https://mi-sitio.com/api/sitemap
-</CodeBlock>
+
+Sitemap: https://mi-proyecto-seo-hpt0.onrender.com/api/sitemap
